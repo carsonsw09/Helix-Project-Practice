@@ -1,0 +1,6 @@
+Return the sum of all numbers in the list that are lucky
+A number is lucky if it is divisible by 7 or contains the digit 7
+
+The list nums can contain negative numbers
+The list may contain duplicates
+The list may be empty 

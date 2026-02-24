@@ -1,0 +1,2 @@
+Write a program that takes in values 1-100 and for every number that is divisible by 7 or has the number 7 in it replace 
+that and return the phrase Lucky! . All other values should be returned as normal.

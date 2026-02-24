@@ -1,0 +1,1 @@
+For this problem, delete every number that is divisible or has a 5 in it in a range of 1-100 in Python
